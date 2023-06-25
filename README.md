@@ -1,1 +1,12 @@
-# summerly
+### About Me 👋🏻
+
+- 🌏 Student from Australia
+- 👨🏻‍💻 Proficient in Javascript 
+- 🖌️ Graphic Designer
+- 🛡️ Community Manager & Moderator
+
+### Projects & Positions 🔭
+- [Support @ Circle](https://circlebot.xyz)
+- [Deputy Director @ NYCRP](https://nycrp.xyz/)
+- [QA Tester @ Trident](https://tridentbot.xyz/)
+- Currently working on an AutoModerator for images
