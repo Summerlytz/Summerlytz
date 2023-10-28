@@ -6,4 +6,4 @@
 
 ### Positions & Projects 🔭
 - [Support @ Circle](https://circlebot.xyz)
-- Currently working on [Boomerang](https://github.com/boomerangdiscord)
+- Currently working on [Boomerang](https://github.com/boomerangservices)
