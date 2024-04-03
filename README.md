@@ -5,5 +5,4 @@
 - 🛡️ Community Manager & Moderator
 
 ### Positions & Projects 🔭
-- [Support @ Circle](https://circlebot.xyz)
-- [CEO @ Boomerang](https://boomerangbot.xyz)
+Check out my portfolio.
