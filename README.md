@@ -1,7 +1,7 @@
 ### About Me 👋🏻
 - 🌏 Student from Australia
 - 👨🏻‍💻 Proficient in Javascript 
-- 🖌️ Graphic Designer
+- 🖌️ Web Designer
 - 🛡️ Community Manager & Moderator
 
 ### Positions & Projects 🔭
